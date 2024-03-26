@@ -1,8 +1,8 @@
 # Examples for grammars
 
 tools: 
-* flex (for extraction of tokens) and 
-* bison (for grammars)
+* ```flex``` (for extraction of tokens) and 
+* ```bison``` (for context-free grammars)
 
 ## reduce-reduce-conflict
 
