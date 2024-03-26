@@ -1,4 +1,4 @@
-# Examples for grammars
+# Examples of grammars
 
 tools: 
 * ```flex``` (for extraction of tokens) and 
