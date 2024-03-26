@@ -1,6 +1,8 @@
 # Examples for grammars
 
-tools: flex (for extraction of tokens) and bison (for grammars)
+tools: 
+* flex (for extraction of tokens) and 
+* bison (for grammars)
 
 ## reduce-reduce-conflict
 
