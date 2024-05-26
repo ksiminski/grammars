@@ -6,13 +6,23 @@ tools:
 
 ## reduce-reduce-conflict
 
+Two examples of grammars with a reduce-reduce conflict.
+
 ## reversed-polish-grammar
+
+The reversed Polish notation produces no shift-reduce conflicts. 
 
 ## shift-reduce-conflict
 
+An example of a grammar with a shift-reduce conflict.
+
 ## shift-reduce-conflict-associativity
 
+A shift-reduce conflict for one token solved with token associativity.
+
 ## shift-reduce-conflict-priority
+
+A shift-reduce conflict for two tokens solved with token priority.
 
 ## sum-of-ones
 
