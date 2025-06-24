@@ -43,4 +43,11 @@ examples of words of the language:
 
 In each run only a single word is tested.
 
+## syntax-directed-translation
+
+Example of a grammar with syntax-directed translation.
+
+## syntax-directed-translation-Abstract-syntax-tree
+
+Example of a grammar with syntax-directed translation and an abstract syntax tree.
 
